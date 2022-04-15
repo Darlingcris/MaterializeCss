@@ -12,3 +12,4 @@
  <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex05/table.html">Tabela</a></p>
  <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex06/grid.html">Grid s m l</a></p>
  <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex06/gridII.html">Grid pull/push/offset</a></p>
+ <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex07/icons.html">Grid pull/push/offset</a></p>

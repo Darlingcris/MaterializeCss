@@ -1,0 +1,8 @@
+@charset "UTF=8";
+p {
+    font-weight: 500;
+}
+
+span.material-icons {
+    font-size: 100px;
+}
