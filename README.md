@@ -10,3 +10,4 @@
  <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex04/foto.html">Responsividade da foto</a></p>
  <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex04/video.html">Responsividade do video</a></p>
  <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex05/table.html">Tabela</a></p>
+ <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex06/table.html">Grid s m l</a></p>
