@@ -18,4 +18,4 @@
 <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex09/buttons.html">Buttons</a></p>
 <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex10/collections.html">Collections</a></p>
 <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex11/badges.html">Badges</a></p>
-  
+ <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex12/barraProgresso.html">Pré-Loader</a></p> 
