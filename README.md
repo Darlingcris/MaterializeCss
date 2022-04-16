@@ -17,4 +17,5 @@
  <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex08/pagination.html">Pagination</a></p>
 <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex09/buttons.html">Buttons</a></p>
 <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex10/collections.html">Collections</a></p>
+<p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex11/badges.html">Badges</a></p>
   
