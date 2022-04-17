@@ -21,3 +21,4 @@
  <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex13/navbar.html">Navbar</a></p>
 <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex14/navbarmobile.html">NavBarMobile</a></p>
 <p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex15/dropdown.html">Lista suspensa no Nav</a></p>
+<p><a href="https://darlingcris.github.io/MaterializeCss/Exercícios/ex16/searchbar.html">Search Bar (barra de pesquisa)</a></p>
